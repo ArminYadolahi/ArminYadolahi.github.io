@@ -8,11 +8,11 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
+  name: 'Armin Yadolahi'
+  email: yadollahi.armin@physics.sharif.edu
+  twitter_username: ArminYadolahi
+  #facebook_username: joshgerdes
+  #github_username:  joshgerdes
   linkedin_username:  joshgerdes
 
 defaults:

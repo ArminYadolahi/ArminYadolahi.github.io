@@ -3,5 +3,18 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-#
-Here you can list your published papers, articles, research, or any academic work related to your field.
+
+<span style="font-size: 20px;">PEER-REVIEWED JOURNAL PUBLICATIONS</span>
+
+-
+
+<span style="font-size: 20px;">PREPRINTS</span>
+
+- Fluctuation Theorems for Amateurs, A.Yadolahi
+
+<span style="font-size: 20px;">PERSENTATIONS</span>  
+-
+
+
+
+

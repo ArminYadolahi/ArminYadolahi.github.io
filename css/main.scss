@@ -18,13 +18,8 @@ pre.highlight code,
 
 .btn,
 .navigation__item a {
-  display: flex;
-  justify-content: center;  /* Centers the icons horizontally */
-  align-items: center;      /* Ensures vertical alignment */
-  gap: 15px;                /* Optional: Adds space between the icons */
-  list-style: none;         /* Removes bullet points */
-  padding: 0;               /* Removes padding */
-  margin: 0; 
+margin: 5px 0;
+white-space: nowrap;
 }
 
 .pagination__page-number {
